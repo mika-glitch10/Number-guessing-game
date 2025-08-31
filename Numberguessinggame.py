@@ -1,5 +1,6 @@
-#'''This is a number guessing game, A menu will be displayed and you have to choose any 1 option among them, 
-#if you guess correctly your score increases by 1 and number of attempts is displayed'''
+#This is a number guessing game, 
+#a menu will be displayed and you have to choose any 1 option among them, 
+#if you guess correctly your score increases by 1 and number of attempts is displayed.
 
 import random
 score=0
@@ -55,3 +56,4 @@ while True:
      
    
     
+
